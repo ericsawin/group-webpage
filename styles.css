@@ -1,14 +1,14 @@
 /* General page styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
 
 /* Header section styling */
 header {
-    background: #333;
+    background: #083157;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -16,7 +16,7 @@ header {
 
 /* Styling for team logo image */
 .team-logo {
-    width: 150px; /* Adjust the size as needed */
+    width: 180px; /* Adjust the size as needed */
     margin-top: 10px;
 }
 
